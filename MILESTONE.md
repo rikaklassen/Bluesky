@@ -1,0 +1,2 @@
+- [ ] 500 followed on Bluesky <!--- how many used to be followed on Twitter -->
+- [ ] 7 800 followers on Bluesky <!--- how many followers used to be on Twitter -->
