@@ -1,2 +1,6 @@
-- [ ] 500 followed on Bluesky <!--- how many used to be followed on Twitter -->
-- [ ] 7 800 followers on Bluesky <!--- how many followers used to be on Twitter -->
+- [x] Receive invite code from wait list
+- [x] Secure an invite code for [biancaglamour69](https://twitter.com/biancaglamour69)
+- [ ] Rediscover 500 followed on Bluesky <!--- how many used to be followed on Twitter -->
+- [ ] Help biancaglamour69 rediscover [613 followed](https://web.archive.org/web/20230226214015/https://twitter.com/biancaglamour69) <!--- how many used to be followed on Twitter -->
+- [ ] Help biancaglamour69 with recovering [1 068 followers](https://web.archive.org/web/20230629090906/https://twitter.com/biancaglamour69) <!--- how many followers used to be on Twitter -->
+- [ ] Recover 7 800 followers on Bluesky <!--- how many followers used to be on Twitter -->
